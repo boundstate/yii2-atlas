@@ -1,0 +1,18 @@
+{
+	"name": "boundstate/yii2-atlas",
+	"description": "Atlas integration for Yii2",
+	"type": "yii2-extension",
+	"keywords": ["yii2","extension","atlas"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Bound State Software",
+			"email": "info@boundstatesoftware.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"boundstate\\atlas\\": ""
+		}
+	}
+}
